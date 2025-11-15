@@ -9,7 +9,7 @@ installed_packages.json — structured list
 installed_packages_list.txt — plain text list
 
 Usage
-python3 packages.py
+```python3 packages.py```
 
 
 The output files will appear in the same folder.
